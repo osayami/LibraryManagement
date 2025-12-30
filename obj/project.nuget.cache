@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Mq5bQh6Lac=",
+  "success": true,
+  "projectFilePath": "/mnt/HDD/Projects/Programming/dotnet/Coursera/LibraryManagement/LibraryManagement.csproj",
+  "expectedPackageFiles": [
+    "/home/osayami/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/home/osayami/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "/home/osayami/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.22/microsoft.netcore.app.host.linux-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
